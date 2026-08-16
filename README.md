@@ -1,4 +1,5 @@
-# PS1 Facts ### (v1.0.0, uploaded on 15.08.2026)
+# PS1 Facts 
+###(v1.0.0, uploaded on 15.08.2026)
 This interactive app provides you some interesting facts about the PlayStation 1 by clicking on the corresponding button.
 Open and close the app a few times. Do you notice any difference?
 
@@ -6,7 +7,6 @@ Open and close the app a few times. Do you notice any difference?
 This is the second Android app I have ever made. The app has an original initial animation, a background image and some buttons. These buttons represent a selected PS1 fact, which will be displayed through an image on the top screen and a description on the center. The sound in the background will change randomly. You wll also hear a particular sound by clicking on each button. Can you recognize that sound?
 
 ## Properties
-[!NOTE]
 - Download and install the .APK file on your device.
 - The app runs on Android systems only.
 - The app is performed for smartphones, but it also runs well on tablet.

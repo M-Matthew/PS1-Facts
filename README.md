@@ -12,20 +12,18 @@ This is the second Android app I have ever made. The app has an original initial
 - This app has been tested with VirusTotal. Results are at the page bottom.
 
 ## Screenshots
-<img width="270" height="585" alt="Foto1" src="https://github.com/user-attachments/assets/a5a3bba0-e9e8-4cca-ad5d-f1b4877da025" /> <img width="270" height="585" alt="Foto2" src="https://github.com/user-attachments/assets/55a029cb-5edb-4665-945a-790bbb8898bc" />
-<img width="270" height="585" alt="Foto3" src="https://github.com/user-attachments/assets/1f8c0734-e7ee-4b0b-a9a1-4ef8fa8b005b" /> <img width="270" height="585" alt="Foto4" src="https://github.com/user-attachments/assets/506db5d8-52f0-4747-b546-c40c9316c112" />
+<img width="270" height="585" alt="Foto1" src="https://github.com/user-attachments/assets/a5a3bba0-e9e8-4cca-ad5d-f1b4877da025" /> <img width="270" height="585" alt="Foto2" src="https://github.com/user-attachments/assets/55a029cb-5edb-4665-945a-790bbb8898bc" /> <img width="270" height="585" alt="Foto3" src="https://github.com/user-attachments/assets/1f8c0734-e7ee-4b0b-a9a1-4ef8fa8b005b" /> <img width="270" height="585" alt="Foto4" src="https://github.com/user-attachments/assets/506db5d8-52f0-4747-b546-c40c9316c112" />
 
 ## VirusTotal Scan
-This app has been tested with VirusTotal. The results are available here.
+This app has been tested with VirusTotal. The results are available here:
 [VirusTotal scan results](https://www.virustotal.com/gui/file/d17e9d07678b81de392a097152105743174f46b32bf38e60f051d8852c73b048?nocache=1)
 
 <img width="1210" height="186" alt="virus" src="https://github.com/user-attachments/assets/e85c0b3e-2ed5-4c6e-9a14-e096caf99c13" />
-
 <img width="363" height="63" alt="virus2" src="https://github.com/user-attachments/assets/41a0e00c-943d-44f4-9579-f817c74e19bb" />
 
 ## Link
-You will find more apps and products on my official [Rare Earths Website.](https://rareearths.carrd.co)
+You will find more apps and products on my official [**Rare Earths Website.**](https://rareearths.carrd.co)
 
 ## Donations
 This project and all other projects on my website are not part of my job. It's a passionate hobby, which also involves some costs (hardware, plans, textbooks, online tutorials, ...). If you'd participate to my financial sacrifices buying me a coffee, I will appreciate.
-# [DONATE](https://www.paypal.com/paypalme/RareEarths)
+# [**DONATE**](https://www.paypal.com/paypalme/RareEarths)

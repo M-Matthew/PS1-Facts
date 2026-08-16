@@ -24,7 +24,7 @@ This app has been tested with VirusTotal. The results are available here.
 <img width="363" height="63" alt="virus2" src="https://github.com/user-attachments/assets/41a0e00c-943d-44f4-9579-f817c74e19bb" />
 
 ## Link
-You will find more apps and products on my official [Rare Earths Website](https://rareearths.carrd.co)
+You will find more apps and products on my official [Rare Earths Website.](https://rareearths.carrd.co)
 
 ## Donations
 This project and all other projects on my website are not part of my job. It's a passionate hobby, which also involves some costs (hardware, plans, textbooks, online tutorials, ...). If you'd participate to my financial sacrifices buying me a coffee, I will appreciate.

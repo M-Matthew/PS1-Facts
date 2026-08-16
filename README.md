@@ -1,4 +1,4 @@
-# PS1 Facts *##(v1.0.0, uploaded on 15.08.2026)*
+# PS1 Facts ##*(v1.0.0, uploaded on 15.08.2026)*
 This interactive app provides you some interesting facts about the PlayStation 1 by clicking on the corresponding button.
 Open and close the app a few times. Do you notice any difference?
 
